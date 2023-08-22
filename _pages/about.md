@@ -2,7 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
-comments: true
+image: "assets/images/about.webp"
+comments: false
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+We want to tear high-brow scientific and sociological discussions down from their lofty ivory towers into the muddy world of unhinged humor, fart jokes and shitposting. We want to create a platform for real, rational, intellectually honest discussion that also happens to be unbound by the decorum of polite society. We want to bring big ideas to the people - the real people, not the 1 percenters, not the bots. In other words… a black market for science and culture. This is the academy of the streets and class is in session. 
