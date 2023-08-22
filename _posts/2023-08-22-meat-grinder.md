@@ -3,7 +3,7 @@ layout: post
 title:  "The Meat Grinder - University Life for the Rest of Us"
 author: Avi DasGupta
 # categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/post1.jpg
 # tags: [sticky]
 ---
 
